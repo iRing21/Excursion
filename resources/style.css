@@ -16,6 +16,9 @@ h2 {
 p{
     color: grey;
 }
+a {
+    color: aquamarine;
+}
 footer{
     text-align: right;
 }
