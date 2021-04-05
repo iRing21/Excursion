@@ -19,7 +19,7 @@ p{
 footer{
     text-align: right;
 }
-download-link {
+.download-link {
     color: aquamarine;
     font-size: 16px;
     text-decoration: underline;
